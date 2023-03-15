@@ -1,0 +1,1 @@
+from .cognito import oauth2_scheme
